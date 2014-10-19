@@ -5,7 +5,7 @@ public class Spis {
 	public static void main(String[] args) {
 		Inwentor[] urzadzenie = new Inwentor [1];
 		
-		urzadzenie[0] = new Inwentor("kardiomonitor", "M8002A", "DE00000000","MP30", )
+		
 
 	}
 
@@ -28,9 +28,9 @@ public class Spis {
 			numer_fabryczny = sn;
 			dystrybutor = dyst;
 			serwis = serw;
-			GregorianCalendar 
-			rok_produkcji = r_prod;
-			data_uruchomienia = d_uruch;
+			//GregorianCalendar 
+			//rok_produkcji = r_prod;
+			//data_uruchomienia = d_uruch;
 			
 		}
 		
