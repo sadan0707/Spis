@@ -5,7 +5,7 @@ public class Spis {
 	public static void main(String[] args) {
 		Inwentor[] urzadzenie = new Inwentor [1];
 		
-		ala ma kota w glowie
+		ala ma kota w glowie i tyle 
 
 	}
 
